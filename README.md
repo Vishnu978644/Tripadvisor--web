@@ -1,1 +1,2 @@
-# Tripadvisor--web
+🌍 TripAdvisor Clone Website (HTML & CSS)
+This is a responsive front-end clone of the TripAdvisor homepage built using pure HTML and CSS. It features animations, interactive hover effects, a sticky header, custom buttons, and smooth transitions. Designed with mobile-first responsiveness using media queries, the layout adjusts for small screens seamlessly. Ideal for showcasing front-end skills and UI design.# Tripadvisor--web
